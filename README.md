@@ -11,8 +11,8 @@
 #关于数据的采集是利用scrapy框架本身的xpath解析，从而提取数据
 
 #  for j in content:
-      new_content = j.replace('\xa0' * 8, '\n')
-#  用于清洗提取出来的小说内容中的空格（&nbsp;）
+#      new_content = j.replace('\xa0' * 8, '\n')
+#  用于清洗提取出来的小说内容中的空格
 
 
 
